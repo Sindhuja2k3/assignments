@@ -1,0 +1,65 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usetheme{Antibes}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\title{presentation}
+\author{Sindhuja }
+\date{September 2022}
+
+\begin{document}
+\maketitle
+\section{RESUME FORM}
+\begin{frame}
+\begin{figure}
+  \includegraphics[scale=0.5]{rgv.jpg}  
+\end{figure}
+\section{
+\huge{\color{red}{Name}}
+\color{green}{:}
+\color{yellow}{ Sindhuja}}
+\subsection{\color{green}ID:B191852}
+\end{frame}
+\begin{Large}
+\subsection{
+\color{red}Department:Computer Science of Engineering}
+\end{Large}
+\subsection{
+\color {yellow}class:c3}
+\section{
+\color{blue}{{Father's name:kumar}}}
+\section{
+\color{violet}{Address:village:maheshwaram,district:rangareddy,State:Telangaga}}
+\section{Hobbies}
+\begin{itemize}
+    \item 
+    \underline listening songs
+    \item watching Instagram
+    \item reading books
+\end{itemize}
+\section{B.Tech Branches}
+\begin{frame}
+\begin{center}
+    \begin{tabular}{|c|c|c|}
+     \hline
+     SNO & BRANCH & Classes\\
+     \hline
+     1 & CSE & 5\\
+     \hline
+     2 & ECE & 5\\
+     \hline
+     3 & EEE & 3\\
+     \hline
+     4 & CVL & 3\\
+     \hline
+     5 & MEC & 3\\
+     \hline
+     6 & MME & 2\\
+     \hline
+     7 & Chem & 2\\
+     \hline
+    \end{tabular}
+\end{center}
+\end{frame}
+
+\end{document}
