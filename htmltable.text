@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<title>
+table
+</title>
+</head>
+<body>
+
+
+
+<h1>table</h1>
+<!-- border is used to get lines for table-->
+<table border>
+<tr><th>s.no</th><th>name</th><th>class</th></tr>
+<tr><td>1.</td><td>lilly</td><td>6th</td></tr>
+<tr><td>2.</td><td>harika</td><td>1st</td></tr>
+</table>
+
+
+</body>
+</html>

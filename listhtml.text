@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<title>lists
+</title>
+</head>
+<body>
+<h1 color="red">ordered list</h1>
+<!-- default type in ordered list is 1 2 3 -->
+<ol type="a">
+<font size="20" face="impact" color="blue">
+<li>apple</li>
+<li>ball</li>
+<li>cat</li>
+<li>dog</li>
+<li>egg</li>
+</font>
+</ol>
+<br>
+</br>
+<br/>
+<!-- default type in unordered list is dots -->
+<h1 color="red">unordered list</h1>
+<ul type="circle">
+<font size="20" color="blue">
+<li>apple</li>
+<li>ball</li>
+<li>cat</li>
+<li>dog</li>
+<li>egg</li>
+</font>
+</ul>
+
+
+</body>
+</html>
