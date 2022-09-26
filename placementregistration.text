@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>forms</title>
+</head>
+<body>
+<h1>Placement-registration-html</h1>
+<br><br>
+<form action="connect.php" method="post">
+<input type="radio" name="mr">
+<label>mr</label>
+<input type="radio" name="mrs">
+<label>mrs</label>
+<input type="radio" name="ms">
+<label>ms</lable><br>
+<label>Student ID:</label>
+<input type="text" name="Student ID:" placeholder="enter id"><br><br>
+<label>First Name:</label>
+<input type="text" name="First Name:" placeholder="enter first name"><br><br>
+<label>Last Name:</label>
+<input type="text" name="Last Name:" placeholder="enter last name"><br><br>
+<label>Username:</label>
+<input type="text" name="Username:" placeholder="enter username"><br><br>
+<label>Password:</label>
+<input type="password" name="Password:" placeholder="enter password"><br><br>
+<label>Address:</label>
+<textarea></textarea>
+<textarea="text" name="Address" >
+
+<br><br>
+<label>City:</label>
+<input type="text" name="City:" placeholder="enter city"><br><br>
+
+<label>State:</label>
+<select>
+<option value="Telangana">Telangana
+<option value="Tamilnadu">Tamilnadu
+<option value="kerala">Kerala
+<option value="Maharastra">Maharastra
+</select><br><br>
+<label>Pin:</label>
+<input type="text" name="Pin" placeholder="enter code"><br><br>
+<label>Upload files:</label>
+<input type="file" name="Upload files" placeholder="choose file"><br><br>
+<label>Email:</label>
+<input type="email" name="Email:" placeholder="enter email"><br><br>
+<label>Mobile:</label>
+<input type="" name="Mobile:" placeholder="enter number"><br><br>
+Language:
+<input type="checkbox" name="English">
+<label>English</label><br>
+<input type="checkbox" name="Telugu">
+<label>Telugu</label><br>
+<input type="checkbox" name="Hindi">
+<label>Hindi</label><br>
+<label>Additional info:</label>
+<textarea></textarea>
+<textarea="text" name="Additional info:"><br><br>
+<input type="checkbox" name="Accept terms & conditions">
+<label>Accept terms & conditions</label><br><br>
+<input type="submit" name="submit" value="submit">
+<input type="reset" name="Reset:" value="reset"><br><br>
+
+
+
+ 
+
+
+
+</form>
+</body>
+</html>
+
