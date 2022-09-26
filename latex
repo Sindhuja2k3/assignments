@@ -1,0 +1,40 @@
+\documentclass{knittingpattern}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\definecolor{color3}{HTML}
+{99CCFF}
+\definecolor{color5}{HTML}
+{CCFFCC}
+\definecolor{color0}{HTML}
+{000000}
+\definecolor{color2}{HTML}
+{97DE76}
+\definecolor{color4}{HTML}
+{EDB668}
+\title{knitting pattern}
+\author{Sindhuja)}
+\date{August 2022}
+
+\begin{document}
+
+\maketitle
+\section{Introduction}
+\intro{Introductory text here.it will look better if it has the same height as the image next to it}{ html.jpg}
+\section{Adding knitting instruction}
+\begin{pattern}{color3}
+{color5}
+watsapp & (st)\\
+instagram 1 & (st)\\
+instagram 2 & (st)\\
+face book 3 & (st)\\
+  Google    4 & (st)\\
+\quad\vdots & \quad\vodts\\
+\end{pattern}
+\section{notes and remark}
+\note{color0}{color2}{computer}{IT work shop,DEVC,Physics,English,BEE,COMMUNICATION SKILLS.}
+I LIKE HTML
+\important{color0}{color4}{BEE LAB,ENGLISH LAB,IT WORK SHOP LAB,PHYSICS LAB}
+
+\end{document}
+
