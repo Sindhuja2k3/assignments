@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>forms</title>
+</head>
+<body>
+<h1>Registration form</h1>
+<br><br>
+<form action="connect.php" method="post">
+<label>Name:</label>
+<input type="text" name="Name:" placeholder="enter name"><br><br>
+<label>Password:</label>
+<input type="password" name="Password:" placeholder="enter password"><br><br>
+<label>Email:</label>
+<input type="email" name="Email:" placeholder="enter email"><br><br>
+<center><input type="submit" value="submit"></center>
+
+</form>
+</body>
+</html>
